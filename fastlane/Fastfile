@@ -39,13 +39,15 @@ platform :android do
     )
   end
 
-  desc "Submit a new Beta Build to Crashlytics Beta"
+  desc "Submit a new Beta Build to Firebase App Distribution"
   lane :beta do
-    gradle(task: "clean assembleRelease")
-    crashlytics
+    build
 
-    # sh "your_script.sh"
-    # You can also use other beta testing services here
+    firebase_app_distribution(
+      app: "1:554871592691:android:420519757980f9a9e3c986",
+      groups: "group-two",
+      release_notes: "Lots of amazing new features to test out!",
+      )
   end
 
   desc "Deploy a new version to the Google Play"
