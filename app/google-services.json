@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "554871592691",
+    "project_id": "rwmagic8ball-858fd",
+    "storage_bucket": "rwmagic8ball-858fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554871592691:android:420519757980f9a9e3c986",
+        "android_client_info": {
+          "package_name": "com.alexanderZou.android.rwmagic8ball"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554871592691-7h9e2e5qetvvgf10vi3vm3rrhbb19rio.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG2ix16_TwjHJTagYoovW_bgvoYXklrd4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554871592691-7h9e2e5qetvvgf10vi3vm3rrhbb19rio.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
