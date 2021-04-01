@@ -9,7 +9,7 @@ android {
     applicationId "com.alexanderZou.android.rwmagic8ball"
     minSdkVersion 18
     targetSdkVersion 29
-    versionCode 3
+    versionCode 6
     versionName "1.0"
     testInstrumentationRunner 'androidx.test.runner.AndroidJUnitRunner'
   }
