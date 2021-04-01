@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "pc-api-8188359477494611445-385",
+  "private_key_id": "2aaf5dc7aa2822b530a29bb07e5bbfa2df698b2b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC2mMMPD2U06kEs\nUCyQubZ4zptf27jJrPbjxYHvS/PsmLhGpfOhyJXvsuH1DqRuurBUDn8pSoI9qvHG\nd/C2JFtlpf7e8rFaaNbUFLSwP8E2HIZp9rVu9zD7ZdFp7hJOqTLWpN40Jv+EqJoy\noGcdaFDlHQ5jucLJ12QLBIgwHA3n6B7nFt4lP9r9pKDms5MHlZf6jyweoARWhNLr\nEuyHkQey+iUjss9eBB8SY5NoMg64zl1s8ZgTqgEbTAd1vCi6N5zhChTuu5PgpqGP\nb1hX6aNygNyW9E6jHnyKULuOSEOIlQZ1fseLP+GuivJQlIdB4FKGvkF/3ZE9DIrU\n0CZbfFaHAgMBAAECggEAFfFCk3c6psK1xUD3MgcXLepKEplhWd7upk1wQVTjwZ1S\nm67Kmbj0h6L780poqSPHF7rMPiaFgyqdNkfohcLVtt/dQmZwuJgbpM2+LuXiboG8\nB1TN1cFfwf4oza19xrUfdlrGlwbOst7d9NKAwbBs9DNrLMHAbifzjj1jrkBYzXLL\nSbboT9YYki9s6rWcMV3oytRQvVXx9qn7tzx7MdvAkebQW/JHkUh+8U+h9RIPSwOp\n1d7986Ps7oNI9KVbYaCQVke6z9tSsdL5NfuA1N/2CKz66QzQm0VePCAa8xvtWZJz\nvyXNPQ1MdxD4k/huyrV/prYD0azwL3HClA+LGf2CqQKBgQD+TvcsZt2oS3N2xEuD\nvPZraTkOtm0ogZj055SeKAxNY+k16GRFK8A9zgNJqK6nMaXNNQEiqJ7VGjbHYGW4\n2740VgTXsC5xQm7EBfHAUr4SL35GiovuPSK7gC2N9YE/8FTGL0Xg67she8hNvE0R\nhgFzJJb8m4GMqYk2KCFy9sbarwKBgQC3z6+tn69OErfl6pv5i7pLib4lzgzAihxe\nsn+kIPqYrTDQdNZySUb6F3NYE5r96fpLzwxnOZsv019p2wthSmlqqTdcPGKh0zKE\nW9AZizcDML3I3tPBLoukIDbPKQa17AZpqtONH3oKHvuKK4t8dT39RAgDhDsxA/wv\n1b/oR4PXqQKBgH4Q1ycDt03+WTa/CFA+FEoa11YbyPETjaeaRWpBoBedN7aphUtk\n7N+2iJqzLCFl0zNu2yk7PcGWRSGA/+wrwpZfLfdeNyeeLxqtd7JHUkHhmU+Ozt9D\nHzyjxfFhirkPgnbcaF+ffByVKC6g8fOF4qIZuV9wF0CLqqFWM36yJtGxAoGARDrU\npGddBGcQWkj/At+qFHYZ3iChPStHIqOxm7QeMWRAdXCZVaz7qsPfrfcBFnWu0ksV\n+I86msMkbL/BdqjPfqc3hIZpulYSL22BTqoNjqKeIB0Oj2v+q7rFfZpmAkuNidW+\nV2kyvOUJTB2j1lwS2ZtSOjPwYN5w0zTN2qQJPZkCgYEAygEw1SGToWiJIJmPJA0S\n6/hUnY3DDxAkBraTISjjzzEnctuKtK5NNprAxJXn/aK+hgcorQeuxAVfV4i8gybs\nUXFn0/zSP26PaxeKUXebX+8EJjX2JiVUCimakS3VR/yY5OlVYNDLpe7GSEzs3xIZ\nX6jtK0VyCTlab5jbEmcC5Ug=\n-----END PRIVATE KEY-----\n",
+  "client_email": "fastlane-nishant-srivastava-20@pc-api-8188359477494611445-385.iam.gserviceaccount.com",
+  "client_id": "109838935442998650305",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/fastlane-nishant-srivastava-20%40pc-api-8188359477494611445-385.iam.gserviceaccount.com"
+}
