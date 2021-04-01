@@ -5,7 +5,7 @@ apply plugin: 'kotlin-android-extensions'
 android {
   compileSdkVersion 29
   defaultConfig {
-    applicationId "com.raywenderlich.android.rwmagic8ball"
+    applicationId "com.alexanderZou.android.rwmagic8ball"
     minSdkVersion 18
     targetSdkVersion 29
     versionCode 3
@@ -31,8 +31,8 @@ android {
 
 dependencies {
   implementation fileTree(dir: 'libs', include: ['*.jar'])
-  implementation 'androidx.appcompat:appcompat:1.1.0'
-  implementation 'androidx.constraintlayout:constraintlayout:1.1.3'
+  implementation 'androidx.appcompat:appcompat:1.2.0'
+  implementation 'androidx.constraintlayout:constraintlayout:2.0.4'
 
   implementation "org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version"
 }
